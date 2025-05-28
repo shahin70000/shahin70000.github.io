@@ -24,6 +24,7 @@ location = ""
 permalink = ""
 title = ""
 
+
 # Perform geolocation
 for file in g:
     # Read the file
